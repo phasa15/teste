@@ -19,9 +19,7 @@
 */
 
 
-/* Classes são funções
-
-Uma classe do JavaScript é um tipo de função. As classes são declaradas com a palavra-chave class. Vamos usar a sintaxe de expressão de função para inicializar uma função e a sintaxe de expressão de classe para inicializar uma classe.*/
+/* Removi o texto para textes*/
 
 // Inicializando uma função com uma expressão de função
 const x = function() {}
