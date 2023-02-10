@@ -19,7 +19,7 @@
 */
 
 
-/* Removi o texto para textes - Removi o texto para textes*/
+/* Removi o texto para textes - Removi o texto para textes - Removi o texto para textes*/
 
 // Inicializando uma função com uma expressão de função
 const x = function() {}
