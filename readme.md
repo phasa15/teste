@@ -20,3 +20,7 @@ Como é fácil fazer um link para um site: [link p/ o google!](https://www.googl
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
+
+![Details web](screenshots/Batman.png)
+![Details web](screenshots/gatoFelix.gif)
+
